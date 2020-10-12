@@ -1,4 +1,3 @@
-# singlebucks
+### My website template
 
-#my website
-[click here]()
+##### see live demo on [https://flyingsonu122.github.io/singlebucks/](https://flyingsonu122.github.io/singlebucks/)
