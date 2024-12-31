@@ -1,3 +1,3 @@
 ### My website template
 
-##### see live demo on [https://flyingsonu122.github.io/singlebucks/](https://flyingsonu122.github.io/singlebucks/)
+##### see live demo on [https://iamsonukushwaha.github.io/singlebucks/](https://iamsonukushwaha.github.io/singlebucks/)
